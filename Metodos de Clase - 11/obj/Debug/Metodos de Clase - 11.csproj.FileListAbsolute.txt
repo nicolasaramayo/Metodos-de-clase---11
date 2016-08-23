@@ -1,0 +1,6 @@
+D:\ARAMAYO_NICOLAS\Git\Guia_TP\Metodos de Clase - 11\bin\Debug\Metodos de Clase - 11.exe.config
+D:\ARAMAYO_NICOLAS\Git\Guia_TP\Metodos de Clase - 11\bin\Debug\Metodos de Clase - 11.exe
+D:\ARAMAYO_NICOLAS\Git\Guia_TP\Metodos de Clase - 11\bin\Debug\Metodos de Clase - 11.pdb
+D:\ARAMAYO_NICOLAS\Git\Guia_TP\Metodos de Clase - 11\obj\Debug\Metodos de Clase - 11.csprojResolveAssemblyReference.cache
+D:\ARAMAYO_NICOLAS\Git\Guia_TP\Metodos de Clase - 11\obj\Debug\Metodos de Clase - 11.exe
+D:\ARAMAYO_NICOLAS\Git\Guia_TP\Metodos de Clase - 11\obj\Debug\Metodos de Clase - 11.pdb
